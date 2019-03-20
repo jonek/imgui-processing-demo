@@ -7,6 +7,11 @@ This is how it looks like:
 
 Currently, the imgui controls use a separate window.
 
+## Dependencies
+
+To make the imgui API accessible from the Java sketch this demo uses [jimgui](https://github.com/ice1000/jimgui).
+Jimgui provides Java bindings for the native imgui.
+
 ## Help wanted!
 
 I don't know how to show the imgui controls in the same window that is used by Processing.
